@@ -46,7 +46,7 @@ public class WeatherActivity extends AppCompatActivity {
     private ForecastAdapter forecastAdapter;
     private ArrayList<String> forecastList = new ArrayList<>();
     private FusedLocationProviderClient fusedLocationClient;
-    private final String API_KEY = "cb072a4f8ba03551bce62e14aff0924b"; // Replace with your API key
+    private final String API_KEY = "API KEY"; // Replace with your API key
     private String lastCondition = "";
 
     @Override
